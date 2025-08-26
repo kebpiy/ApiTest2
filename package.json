@@ -1,0 +1,27 @@
+{
+  "name": "apitest2",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/kebpiy/ApiTest2#readme",
+  "bugs": {
+    "url": "https://github.com/kebpiy/ApiTest2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kebpiy/ApiTest2.git"
+  },
+  "license": "ISC",
+  "author": "kebp",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "run": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "@types/express": "^5.0.3",
+    "@types/node": "^24.3.0"
+  }
+}
